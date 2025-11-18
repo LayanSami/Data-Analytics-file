@@ -1,69 +1,25 @@
-# 📊 Excel for Data Analytics - Full Course
+# 💿 Datasets
 
-Data Nerds! This repo contains all the Excel files needed to follow along my free course: [Excel for Data Analytics](https://lukebarousse.com/excel)
+This folder is a consolidated list of datasets used throughout the course.
 
-[![Excel for Data Analytics](0_Resources/Images/Excel_Data_Analytics_v2.png)](https://youtu.be/pCJ15nGFgVg)
-## Team Members 👥
-**🙋🏼‍♂️ Course Leader:** [Luke Barousse](https://www.linkedin.com/in/luke-b)  
-**🎬 Course Producer:** [Kelly Adams](https://www.linkedin.com/in/kellyjianadams)  
-**📺 Video Editor:** [Brannon Linder](https://www.linkedin.com/in/brannonlinder)
+## Datasets
 
-## Table of Contents
+### 1. [`data_jobs_20rows.xlsx`](data_jobs_20rows.xlsx)
+This is a small sample dataset containing only 20 rows. It is useful for quick testing or demonstrating functionalities without the overhead of handling larger files.
 
-### [Course Problem Workbooks](/0_Resources/Problems/)
+---
 
-- The Workbooks to solve practice problems
-    - [Purchase the problems here](https://lukebarousse.com/excel)
+### 2. [`data_jobs_salary_all.xlsx`](data_jobs_salary_all.xlsx)
+This Excel file focuses on the salary information of data science roles. It provides salary estimates across different companies, locations, and job titles. **This is the primary dataset used in the majority of the course.**
 
-### [Chapter 1: Spreadsheets_Intro](/1_Spreadsheets_Intro/)
-- Worksheets
-- Workbooks
-- Ribbon
-- Menu
-- Keyboard Shortcuts
-### [Chapter 2: Formulas & Functions](/2_Formulas_Functions/)
-- Formulas
-- Functions
-- Logical Functions
-- Text Functions
-- Date Functions
-- Lookup Functions
-- Math Functions
-- Statistical Functions
-### [Chapter 3: Charts](/3_Charts_Graphs/)
-- Chart Types
-- Chart Elements
-- Chart Styles
-- Chart Axes
-- Chart Layouts
-- Chart Templates
-### [Chapter 4: Spreadsheets Advanced](/4_Spreadsheets_Advanced/)
-- Tables
-- Conditional Formatting
-- Formatting
-- Collaboration
-### [Chapter 5: Pivot Tables](/5_Pivot_Tables/)
-- Pivot Tables
-- Pivot Charts
-- Pivot Tables Advanced
-### [Chapter 6: Advanced Data Analysis](/6_Advanced_Data_Analysis/)
-- Analysis Add-ins
-- Solver
-- Scenario Manager
-- Goal Seek
-- Data Tables
-### [Chapter 7: Power Query](/7_Power_Query/)
-- Power Query
-- Power Query Editor
-- Power Query M Language
-- Power Query Advanced
-### [Chapter 8: Power Pivot](/8_Power_Pivot/)
-- Power Pivot
-- Power Pivot DAX
-- Power Pivot Data Models
+---
 
-## Found a Typo? Want to Contribute?
-- If you find an error in this repo, please feel free to make a pull request by:
-    - Forking the repo
-    - Making any changes
-    - Submitting a pull request
+### 3. [`data_jobs_salary_monthly.xlsx`](data_jobs_salary_monthly.xlsx)
+Similar to `data_jobs_salary_all.xlsx`, this file provides a breakdown of salary information on a monthly basis. This can be useful for observing salary trends over time.
+
+---
+
+### 4. [`📂 data_jobs_monthly`](data_jobs_monthly/)
+This folder contains data science job postings aggregated on a monthly basis. Each row represents job listings for a specific month, providing insights into trends over time.
+
+---
